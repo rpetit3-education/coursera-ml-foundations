@@ -2,6 +2,7 @@ The first course of University of Washington's [Machine Learning Specialization]
 
 ####Machine Learning Foundations: A Case Study Approach
 *Current session: Mar 28 — May 16*
+
 Commitment 6 weeks of study, 5-8 hours/week
 
 ##### About the Course
